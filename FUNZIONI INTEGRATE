@@ -8,3 +8,6 @@ nome1 = "Domenico"
 
 #print variabili multiple
 print  ("mi chiamo", nome1,)
+#stampe numeri
+print(3+3)#6
+print(22-11)#2
