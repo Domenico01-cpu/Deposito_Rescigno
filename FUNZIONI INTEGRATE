@@ -1,0 +1,10 @@
+#prova funzioni integrate
+nome1 = "Domenico"
+numero = 20
+print("mi chiamo",nome1,"e non ho", numero)
+#conversionw input in intero
+nome = int(input("Inserisci la tua eta"))
+nome1 = "Domenico"
+
+#print variabili multiple
+print  ("mi chiamo", nome1,)
